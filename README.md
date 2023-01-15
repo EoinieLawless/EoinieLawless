@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EoinieLawless
 - 👀 I’m interested in Gaming development
 - 🌱 I’m currently Studying at ATU Galway, in Software development
-- 💞️ I’m looking to collaborate on Gui based coding
+- 💞️ I’m looking to collaborate on Front End gui based coding 
 - 📫 How to reach me ... eoinie.lawless@gmail.com
 
 <!---
