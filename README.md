@@ -5,9 +5,6 @@
 
 <div id="header" align="left">
 
-<div id="header" align="left">
-<iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="90" height="90" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
 
 - I’m interested in Machine learning and Software Innovation  
 - I’m currently Studying at ATU Galway, in Software development
