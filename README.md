@@ -12,7 +12,7 @@
 
 
 - I’m interested in Machine learning and Software Innovation  
-- I’m currently Studying at ATU Galway, in Software development
+- I Studied at ATU Galway, in Software development
 - Active member of ATU Ai Society
 
 
