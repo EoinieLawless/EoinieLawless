@@ -1,7 +1,8 @@
  # Hi, I’m @EoinieLawless
 
  ---
-### Software Engineer at [Atlantic Technological University of Galway](https://www.gmit.ie/)
+### Masters Student at  [Technological University of Shannon](https://tus.ie/)
+### Graduated Software Engineer at [Atlantic Technological University of Galway](https://www.gmit.ie/)
 
 <div id="header" align="left">
 <div id="badges">
@@ -12,8 +13,7 @@
 
 
 - I’m interested in Machine learning and Software Innovation  
-- I Studied at ATU Galway, in Software development
-- Active member of ATU Ai Society
+- I Studied at ATU Galway and TUS Athlone, in Software Engineering 
 
 
 - How to reach me ... eoinie.lawless@gmail.com
